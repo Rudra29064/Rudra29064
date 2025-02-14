@@ -19,4 +19,4 @@ I'm shyam. I'm Full Stack Developer, currently learning about depths of Machine 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra29064&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=ShyamKadiwar&label=Profile%20Views&pretty=false)
+![](https://visitcount.itsvg.in/api?id=Rudra29064&label=Profile%20Views&pretty=false)
