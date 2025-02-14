@@ -1,5 +1,5 @@
 #  About Me:
-I'm shyam. I'm Full Stack Developer, currently learning about depths of Machine Learning based in India. I've been coding since 2022. I also love contributing to open source to give back to the community.<br>Ask me about MachineLearning & WebDev
+I'm Rudra Patel. I'm currently learning about depths of Web Development and Machine Learning based in India. I've been coding since 2024.
 
 
 ## Socials🌐:
