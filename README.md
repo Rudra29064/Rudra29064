@@ -15,8 +15,8 @@ I'm shyam. I'm Full Stack Developer, currently learning about depths of Machine 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats📊:
-![](https://github-readme-streak-stats.herokuapp.com?user=ShyamKadiwar&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamKadiwar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=Rudra29064&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra29064&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=ShyamKadiwar&label=Profile%20Views&pretty=false)
